@@ -49,7 +49,7 @@ Tech: HTML, Python, Streamlit
 (Requires GitHub Action – I can give setup steps if you want)
 
 📫 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:er.aryanmathur19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
 🚀 Currently Learning
 
 ⚛️ React & Component Architecture
@@ -61,19 +61,3 @@ Tech: HTML, Python, Streamlit
 ⚡ Quote
 
 "Great websites are built with attention to detail and smooth experiences."
-
-🔥 Want More Animations?
-
-I can add:
-
-Auto-moving SVG waves
-
-Animated code blocks
-
-Hover-effect project cards
-
-Minimal / Neon / Dark themes
-
-Just tell me the vibe 😄
-
-Do you like this personality?

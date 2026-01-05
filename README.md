@@ -40,16 +40,18 @@ User-friendly shopping experience
 
 Tech Stack: HTML, CSS, JavaScript, React
 📸 UI Preview
-<p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/project-demo.gif" width="600"/> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/dark-ui-demo.gif" width="650"/> </p>
 
-(Replace with your project GIF or screenshots)
+🎥 Project Preview (Dark UI)
+<p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/dark-ui-demo.gif" width="650"/> </p>
+
 
 📈 GitHub Stats (Animated)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" /> </p>
 🐍 Contribution Snake Animation
-<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aryanthegr8/aryanthegr8/output/github-contribution-grid-snake.svg" /> </p>
 
-(Requires GitHub Action – I can give setup steps if you want)
+
 
 📫 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:er.aryanmathur19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>

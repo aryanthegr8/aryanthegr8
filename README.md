@@ -16,6 +16,7 @@ I love clean UI, smooth animations, and turning designs into real products.
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" /> </p>
 📂 Featured Projects
+
 💰 SpendWise – Expense Tracker Application
 
 Track daily expenses with categorized entries
@@ -39,6 +40,7 @@ Modern layout with smooth animations
 User-friendly shopping experience
 
 Tech Stack: HTML, CSS, JavaScript, React
+
 📸 UI Preview
 <p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/dark-ui-demo.gif" width="650"/> </p>
 
@@ -54,7 +56,7 @@ Tech Stack: HTML, CSS, JavaScript, React
 
 
 📫 Connect With Me
-<p align="center"> <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:er.aryanmathur19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
+<p align="center"> <a href="https://linkedin.com/in/aryan-mathur19"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:er.aryanmathur19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a> </p>
 🚀 Currently Learning
 
 ⚛️ React & Component Architecture

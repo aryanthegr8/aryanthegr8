@@ -16,26 +16,29 @@ I love clean UI, smooth animations, and turning designs into real products.
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" /> </p>
 📂 Featured Projects
-🚆 Institute Train Webpage
+💰 SpendWise – Expense Tracker Application
 
-Animated train layout with engine & coaches
+Track daily expenses with categorized entries
 
-Each coach represents a branch
+Clean dashboard with totals & summaries
 
-Fully responsive & interactive
+Responsive design for mobile & desktop
 
-Tech: HTML, CSS, JavaScript
+Focus on usability and performance
 
-📧 Spam Email Classification (Web UI)
+Tech Stack: HTML, CSS, JavaScript, (React – if used)
 
-ML-powered spam detection
+🛒 ShopZen – E-commerce Store
 
-Clean web interface using Streamlit
+Fully responsive e-commerce website
 
-User-friendly input & results display
+Product listing, cart & checkout UI
 
-Tech: HTML, Python, Streamlit
+Modern layout with smooth animations
 
+User-friendly shopping experience
+
+Tech Stack: HTML, CSS, JavaScript, React
 📸 UI Preview
 <p align="center"> <img src="https://user-images.githubusercontent.com/placeholder/project-demo.gif" width="600"/> </p>
 
